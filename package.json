@@ -74,5 +74,6 @@
       "npm",
       "released"
     ]
-  }
+  },
+  "type": "module"
 }
